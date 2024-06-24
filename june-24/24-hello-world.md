@@ -9,15 +9,18 @@ Its about lunch time now, and I am not very hungry. I am thinking about what tas
 
 There is that xv6 playlist to go through [here](https://www.youtube.com/watch?v=fWUJKH0RNFE&list=PLbtzT1TYeoMhTPzyTZboW_j7TPAnjv9XB) as well. I am at video 4 right now. 
 
-So, to summarize :
+
 ##### To learn
-- [x] xv6 kernel playlist
-- [ ] memory exercise from ostep
+- [x] xv6 kernel playlist - till video 5
+- [ ] memory exercise from ostep - move to tomorrow
 
 ##### To work
 - [x] calls
-- [ ] calls
-- [ ] plan
+- [x] interview
+- [x] calls
+
+#### Update : 
+  Completed xv6 playlist till video 5. Lets continue tomorrow!
 
 
 
