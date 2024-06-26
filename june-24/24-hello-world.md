@@ -5,7 +5,7 @@ I found an interesting read [here](https://www.gnu.org/philosophy/stallman-kth.h
 
 After that, I did some work calls for my two projects.
 
-Its about lunch time now, and I am not very hungry. I am thinking about what tasks I should work on or what I should learn today.  I think I will work on the memory exercise that Ramana and I decided on last Saturday but didn't get around to because we spent time setting up the remote debugging environment locally. 
+Its about lunch time now, and I am thinking about what tasks I should work on or what I should learn today.  I think I will work on the memory exercise that Ramana and I decided on last Saturday but didn't get around to because we spent time setting up the remote debugging environment locally. 
 
 There is that xv6 playlist to go through [here](https://www.youtube.com/watch?v=fWUJKH0RNFE&list=PLbtzT1TYeoMhTPzyTZboW_j7TPAnjv9XB) as well. I am at video 4 right now. 
 
