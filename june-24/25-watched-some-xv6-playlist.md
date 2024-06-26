@@ -1,4 +1,4 @@
-Mostly occupied with work today, a production bug in one project, some calls and testing support for another. Cook didnt show up today, so we ordered out. Mom made cheese potato sandwiches and tea in the evening. 
+Mostly occupied with work today, a production bug in one project, some calls and testing support for another. Cheese potato sandwiches and tea in the evening. 
 
 #### Study..
 I watched a couple of videos from the xv6-riscV playlist today. It was about system calls from user code and the riscV architecture. Let me summarize the second lecture a bit. So they talked about all the different registers (31 of them) and the Program counter and the CSRs (Control/Status Registers). I am curious about registers in the x86 version of xv6, will look those up tomorrow. Also talked about the 3 modes - 
