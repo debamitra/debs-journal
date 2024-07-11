@@ -8,3 +8,8 @@ Some resources I'll go through when I am free -
 
 #### OSTEP
 Going to read OSTEP chapter 25, sharing my thoughts here in a while.
+
+#### Work
+
+Wrapping up one project and starting with the Project Proposal for another.
+Need to understand the existing system, architecture, current drawbacks etc. Then start with scoping activities.
