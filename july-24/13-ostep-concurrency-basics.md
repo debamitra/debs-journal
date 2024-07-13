@@ -1,5 +1,5 @@
 
-### Basic concepts learned today 
+### Basic concepts learned today (Chapter 25)
 1. **Threads** - multiple points of execution within a process. They share the process' address space but have their own stack.
    
 2. **Why threads?**
@@ -29,11 +29,11 @@ Here one possible flow of execution:
     - Continues from where it left off.
     - Writes its EAX value (incremented earlier) back to memory. (51)
    
-Even though both Thread 1 and Thread 2 increament the memory value of 50, instead of 52, we still see it as 51.
+Even though both Thread 1 and Thread 2 increment the memory value of 50, instead of 52, we still see it as 51.
 
 4. **Critical Section** - becasue multiple threads running a piece of code can cause race condition, this code is called critical section. Critical section code should not be executed by more than 1 thread at a time.
 
-5. **Mutual Exclusion** is a property that guarentees that if one thread is running critical section, no other thread should be able to run it.
+5. **Mutual Exclusion** is a property that guarentees that if one thread is running in critical section, no other thread should be able to run in it.
 
 6. How to solve - synchronization primitives to support atomicty
 
