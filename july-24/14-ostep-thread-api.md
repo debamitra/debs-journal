@@ -1,5 +1,5 @@
 #### Reading Chapter 26 today .. The Thread API
-Finished the questions in chapter 25 and read Chapter 26. It starts with talking about the interface exposed as per POSIX for thread creation. 
+Finished the questions in chapter 25 and read Chapter 26. It starts with talking about the interface exposed as per POSIX for thread creation and thread management
 
 NOTE - need to look up Function pointers.
 
