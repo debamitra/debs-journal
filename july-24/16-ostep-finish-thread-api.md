@@ -4,17 +4,17 @@
 int pthread_cond_wait(pthread_cond_t *cond, pthread_mutex_t *mutex);
 int pthread_cond_signal)pthread_cond_t);
 
-Thread 1 acquires mutex lock
-Thread 1 waits on a condition variable (releases the lock and goes to sleep)
+- Thread 1 acquires mutex lock
+- Thread 1 waits on a condition variable (releases the lock and goes to sleep)
 
-Thread 2 acquires mutex lock
-// does stuff
-Thread 2 signals condition variable (this wakes up the Thread waiting on it)
-Release lock
+- Thread 2 acquires mutex lock
+- Thread 2// does stuff
+- Thread 2 signals condition variable (this wakes up the Thread waiting on it)
+- Thread 2 Release lock
 
-Thread 1 recieves the notification from Thread 2 and wakes up
-Thread 1 automatically reacquires the lock then checks the condition variable, then returns
-Thread 1 execute remaining steps
+- Thread 1 recieves the notification from Thread 2 and wakes up
+- Thread 1 automatically reacquires the lock then checks the condition variable, then returns
+- Thread 1 execute remaining steps
 
 1. I dont understand why signaling the waiting thread has to be done before releasing the mutex/lock. What happens if its after? Anyway the waiting thread depends on the condition variable to change to wake up and reacquire lock. Lets say it releases the lock. Would the waiting thread be effected? unless its signaled it wont right?
 
