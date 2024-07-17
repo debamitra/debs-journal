@@ -53,7 +53,7 @@ To fix this ,
 Signalling by Thread B must be done before releasing the mutex
 
 How does this fix the issue?
-Since condition is shared data that one thread waits on and another signals ..it needs to be updated while holding mutex?
+Since condition is shared data  that one thread waits on and another signals , so it needs to be only accessed by one thread at a time.
 
 
 
