@@ -1,7 +1,7 @@
 
 **Condition variables** These are used when one thread may be waiting for another to complete before it can do some task or continue. In this case some kind of signaling is needed.
 
-int pthread_cond_wait(pthread_cond_t *cond, pthread_mutex_t *mutex);
+int pthread_cond_wait(pthread_cond_t *cond, pthread_mutex_t *mutex); <br>
 int pthread_cond_signal)pthread_cond_t);
 
 - Thread 1 acquires mutex lock
@@ -16,7 +16,7 @@ int pthread_cond_signal)pthread_cond_t);
 - Thread 1 automatically reacquires the lock then checks the condition variable, then returns
 - Thread 1 execute remaining steps
 
-1. I dont understand why signaling the waiting thread has to be done before releasing the mutex/lock. What happens if its after? Anyway the waiting thread depends on the condition variable to change to wake up and reacquire lock. Lets say it releases the lock. Would the waiting thread be effected? unless its signaled it wont right?
+**Doubt**: I dont understand why signaling the waiting thread has to be done before releasing the mutex/lock. What happens if its after? Anyway the waiting thread depends on the condition variable to change to wake up and reacquire lock. Lets say it releases the lock. Would the waiting thread be effected? unless its signaled it wont right?
 
 Sample Code 
 ```c
