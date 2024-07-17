@@ -12,6 +12,10 @@ Thread 2 acquires mutex lock
 Thread 2 signals condition variable (this wakes up the Thread waiting on it)
 Release lock
 
+Thread 1 recieves the notification from Thread 2 and wakes up
+Thread 1 automatically reacquires the lock then checks the condition variable, then returns
+Thread 1 execute remaining steps
+
 1. I dont understand why signaling the waiting thread has to be done before releasing the mutex/lock. What happens if its after? Anyway the waiting thread depends on the condition variable to change to wake up and reacquire lock. Lets say it releases the lock. Would the waiting thread be effected? unless its signaled it wont right?
 
 Sample Code 
