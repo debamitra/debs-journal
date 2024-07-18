@@ -31,9 +31,9 @@ Here one possible flow of execution:
    
 Even though both Thread 1 and Thread 2 increment the memory value of 50, instead of 52, we still see it as 51.
 
-4. **Critical Section** - becasue multiple threads running a piece of code can cause race condition, this code is called critical section. Critical section code should not be executed by more than 1 thread at a time.
+4. **Critical Section** - becasue multiple threads running a piece of code can cause race condition, this code is called critical section. Critical section code should not be executed by more than 1 thread at a time. (Prevents context switches inbetween)
 
-5. **Mutual Exclusion** is a property that guarentees that if one thread is running in critical section, no other thread should be able to run in it.
+5. **Mutual Exclusion** is a property that guarentees that if one thread is running in critical section, no other thread should be able to run in it. This makes the critical section atomic.
 
 6. How to solve - synchronization primitives to support atomicty
 
