@@ -7,7 +7,7 @@ TestAndSet and CompareAndSwap are two hardware primitives that support atomic lo
 Remaining concepts to read and understand tomorrw -
 - [ ] Load-Linked and Store-Conditional
 
-- [ ] Test and Test then Yield
+- [ ] Test and Set then Yield
 
 - [ ] Lock with Queues
 
