@@ -13,3 +13,4 @@ Does not prevent starvation and also, the context switches is still inefficient 
 ##### Questions 
 1. How does CPU scheduling work in the context of threads and processes? How are they represented and how are they scheduled? Is a process considered as the main thread of execution and scheduled as a thread? How does this work now?
 
+Scheduler schedules thread - thread is always attached to some process. --- ? is this correct?
