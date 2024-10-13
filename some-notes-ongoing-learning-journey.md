@@ -12,8 +12,7 @@ Continuous and sustained learning has transformed my life in some very subtle bu
 
 For a very long time, I wanted to dive back into studying CS fundamentals from scratch, following a roadmap like [Teach Yourself Computer Science](https://teachyourselfcs.com/), and I wanted to revisit the basics, build my foundational knowledge.This year, I finally started.
 
-![WhatsApp Image 2024-10-13 at 8 39 02 PM](https://github.com/user-attachments/assets/c95e7b83-8791-4698-ae72-8d97d0e3db60)
-
+<img src="https://github.com/user-attachments/assets/c95e7b83-8791-4698-ae72-8d97d0e3db60" width="700" height="500">
 
 I picked the topic "Computer Architecture" first, with the book *Nand2Tetris Part 1*. It took me well over 3 months to finish 5 chapters, but the challenge felt just right, like the Goldilocks story. It wasn’t too easy that I got bored, nor difficult enough to discourage me. It provided the perfect balance, pushing me just enough to stay engaged without becoming too overwhelming. I rediscovered an old source of childhood joy, pouring over programming books and solving problems.
 
