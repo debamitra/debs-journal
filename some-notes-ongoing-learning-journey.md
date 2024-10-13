@@ -26,8 +26,5 @@ Next, I plan to explore  math and AI mainly because they present new challenges 
 
 ### Some Concluding Thoughts
 
-When I first started on this journey, I didn’t know how things would pan out, but I took small steps anyway (with some help) — being kind to myself, reframing negative thoughts, and building habits over time. 
-
-After a few years of very non-linear progress and often even some regression, I have noticed some changes. I was being kinder to myself naturally, I don’t often feel as anxious anymore, and it became easier for me to pull myself out of negative thoughts and return to positivity. I was more in control. It’s slightly easier for me to even sometimes override procrastination and do something small. I feel a little successful with this and hope to hold on to it going forward.
-
+When I started this journey, I didn't know exactly how it would pan out, but I took small, consistent steps along the way. After some non-linear progress and setbacks, I have noticed some positive changes. Its a little easier to develop new better habits and manage being productive as well as stepping back when needed. It’s also slightly easier for me to even sometimes override procrastination and do something small. I feel a little successful with this and hope to hold on to it going forward.
 *P.S. Thanks to my friend [Ramana](https://blog.vramana.com/) for pushing me to write more. :)*
