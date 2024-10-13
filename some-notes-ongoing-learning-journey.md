@@ -27,4 +27,6 @@ Next, I plan to explore  math and AI mainly because they present new challenges 
 ### Some Concluding Thoughts
 
 When I started this journey, I didn't know exactly how it would pan out, but I took small, consistent steps along the way. After some non-linear progress and setbacks, I have noticed some positive changes. Its a little easier to develop new better habits and manage being productive as well as stepping back when needed. It’s also slightly easier for me to even sometimes override procrastination and do something small. I feel a little successful with this and hope to hold on to it going forward.
+
+
 *P.S. Thanks to my friend [Ramana](https://blog.vramana.com/) for pushing me to write more. :)*
