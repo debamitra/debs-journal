@@ -1,4 +1,4 @@
-# Notes on My Ongoing Learning Journey
+# Reflections on My Learning Journey
 
 ### A Shift in Focus
 
