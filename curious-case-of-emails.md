@@ -24,7 +24,7 @@ class EmailService {
 In this setup, Nodemailer’s default behavior would be to use port **587** for SMTP if secure is set to false.
 
 
-After discussing what they’d already tried, I learned they had:
+After discussing what they had already tried, I learned they had:
 - Validated the firewall rules, allowing SMTP ports - 587 and 465 to be accessed.
 
 - Checked connectivity from within the pod to smtp.gmail.com on port 587.
@@ -55,7 +55,7 @@ this.transporter = nodemailer.createTransport({
 - **Explicitly specify port 587** in the configuration to ensure Nodemailer doesn’t attempt to use port 25.
 
   
-Above fix resolved the issue. The root cause as per GPT was due to Nodemailer’s fallback behavior with ports, especially when running on a cloud platform like GCP. 
+Above fix resolved the issue. The root cause as per GPT was due to Nodemailer’s fallback behavior with ports, especially when running on a cloud platform like GCP (Need to explore further to find details of the root cause). 
 
 Okay cool, next I read a little bit about what is the SMTP protocol and then tried to figure out how does an email really travel all the way from my nodejs server into a gmail inbox?
 
