@@ -1,4 +1,4 @@
-**The Journey of an Email: From Code to Inbox**
+## The Journey of an Email: From Code to Inbox
 
   
 
