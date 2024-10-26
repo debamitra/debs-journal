@@ -43,11 +43,11 @@ Not being too familiar with Nodemailer, I did a quick search (and asked GPT) to 
 
 ```javascript
 this.transporter = nodemailer.createTransport({
-    host: "smtp.gmail.com",
-    secure: false,
+    host: "smtp.gmail.com",
+    secure: false,
     ......
-    debug: true,  // show debug output
-    logger: true  // log information in console
+    debug:  true,  // show debug output
+    logger:  true  // log information in console
 });
 ```
 
