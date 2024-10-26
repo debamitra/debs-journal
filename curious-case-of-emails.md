@@ -25,9 +25,9 @@ In this setup, Nodemailer’s default behavior would be to use port **587** for 
 
 
 After discussing what they’d already tried, I learned they had:
-- **Validated the firewall rules**, allowing SMTP ports - 587 and 465 to be accessed.
+- Validated the firewall rules, allowing SMTP ports - 587 and 465 to be accessed.
 
-- **Checked connectivity** from within the pod to smtp.gmail.com on port 587.
+- Checked connectivity from within the pod to smtp.gmail.com on port 587.
 
 - Confirmed that emails were being sent correctly when triggered locally.
 
@@ -59,7 +59,14 @@ Above fix resolved the issue. The root cause as per GPT was due to Nodemailer’
 
 Okay cool, next I read a little bit about what is the SMTP protocol and then tried to figure out how does an email really travel all the way from my nodejs server into a gmail inbox?
 
-Here's the short version: My node.js server is acting as the email client here, so first, it sets up a TCP connection with Gmail's SMTP server. The Gmail SMTP server then authenticates the sender's email and password and receives the email request, which includes the sender, recipient, subject, body, and any other details. Once the Gmail server has the data, it closes the connection with my node.js server and sends the email over to to Gmail's internal systems for security checks and further processing. From there, the email heads into a queue and eventually gets picked up and delivered to the receiver's inbox. 
+**Here's the short version:** 
+  My Node.js server is acting as the email client here, so first, it sets up a TCP connection with Gmail's SMTP server. The Gmail SMTP server then authenticates the sender's email and password and receives the email request, which includes the sender, recipient, subject, body, and any other details.  
 
-And that, my friend, is the journey of an email— from code to inbox!
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/8bb9efde-1d8a-4b30-9cdd-b8b79c63607d" alt="WhatsApp Image 2024-10-26 at 10 44 19 PM" width="400" />
+</div>
+
+Once the Gmail server has the data, it closes the connection with my Node.js server and sends the email over to Gmail's internal systems for security checks and further processing. From there, the email heads into a queue and eventually gets picked up and delivered to the receiver's inbox.
+
+And that, my friend, is the journey of an email—from code to inbox!
 
