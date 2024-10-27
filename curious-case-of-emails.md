@@ -46,8 +46,8 @@ this.transporter = nodemailer.createTransport({
     host: "smtp.gmail.com",
     secure: false,
     ......
-    debug:  true,  // show debug output
-    logger:  true  // log information in console
+    debug:  true, // show debug output
+    logger:  true // log information in console
 });
 ```
 
@@ -55,7 +55,7 @@ this.transporter = nodemailer.createTransport({
 - **Explicitly specify port 587** in the configuration to ensure Nodemailer doesn’t attempt to use port 25.
 
   
-Above fix resolved the issue. The root cause as per GPT was due to Nodemailer’s fallback behavior with ports, especially when running on a cloud platform like GCP (Need to explore further to find details of the root cause). 
+Above fix resolved the issue. The root cause as per GPT was due to some unintended fallback behavior with ports, especially when running on a cloud platform like GCP (Need to explore further to find details of the root cause). 
 
 Okay cool, next I read a little bit about what is the SMTP protocol and then tried to figure out how does an email really travel all the way from my nodejs server into a gmail inbox?
 
