@@ -6,7 +6,7 @@ But let’s get back to talking about mentoring.
 
 ### My First Project at the new job
 
-I joined in a senior developer role, and my first project was to build a web portal around ML algorithms, essentially, a small internal tool for a client. It was a small project with a team of four.
+I joined in a senior developer role, and my first project was to build a web portal, essentially, a small internal tool for a client. It was a small project with a team of four.
 
 I was paired with a new backend developer who was a fresher, which quickly turned into me unofficially guiding him. He was entirely new to the field, so I guided him on the basics of web development, setting up APIs, and structuring a database, while he worked to skill up on the tech stack independently. I handled most of the initial architecture, the DB schema, and feature development, then handed him manageable tasks to start with.
 
