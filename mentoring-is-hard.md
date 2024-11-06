@@ -4,7 +4,7 @@ When I joined my current organisation three and a half years ago, I was coming o
 
 But let’s get back to talking about mentoring.
 
-### My First Project at Sigmoid
+### My First Project at the new job
 
 I joined as an SDE3, and my first project was to build a web portal around a machine learning algorithm that would rate datasets according to certain metrics, essentially, an internal app for a client. Small project, small team: me, the project manager, and three other developers — a backend and two frontend developers.
 
@@ -26,7 +26,7 @@ I try to be that kind of colleague for my junior teammates, especially for those
 
 ### The Impact of Mentoring
 
-Since that first project, I’ve mentored three backend engineers at Sigmoid. Looking back, the most important thing I gave them wasn’t technical guidance but a safe space to learn and grow. I would guide them in the beginning—set up the architecture, explain the structure, answer questions—but then afterwards  I will  slowly step back, leaving them room to figure things out and problem-solve independently. And most of the time, they surprised me by doing even better than I expected.
+Since that first project, I’ve mentored three backend engineers till now. Looking back, the most important thing I gave them wasn’t technical guidance but a safe space to learn and grow. I would guide them in the beginning—set up the architecture, explain the structure, answer questions—but then afterwards  I will  slowly step back, leaving them room to figure things out and problem-solve independently. And most of the time, they surprised me by doing even better than I expected.
 
 For instance, one of my mentees took on a big challenge: implementing an ML-based recommendation feature for the project. Without much initial input from me, he dived into it—researching libraries, experimenting with algorithms, and creating his own proof of concept. He went on to write the specifications and managed the entire implementation independently. Watching him take ownership of this task and pull it off successfully was incredibly heartening.
 
