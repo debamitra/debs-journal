@@ -1,5 +1,5 @@
 # debs-journal
-Stream of consciousness study journal, tracked over time.. 
+Welcome to my **Stream of Consciousness Study Journal** — a place where I track my journey, thoughts, and learnings over time.
 
 
 ```cpp
@@ -15,5 +15,12 @@ Aspiring Study-Demon
 [Mentoring is Hard](https://debamitra.github.io/debs-journal/mentoring-is-hard.html)
 
 
+
+
+## About
+
+This journal is a stream of my thoughts, notes, and reflections as I wander through computer science, programming, and the occasional tangent. It’s a place to make sense of what I am learning, keep track of my own growth, and maybe even find some direction along the way.
+
+Thanks for stopping by. Feel free to follow along as I dig into new ideas, play around with concepts, and just see where this journey takes me.
     
 
