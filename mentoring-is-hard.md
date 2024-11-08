@@ -11,6 +11,10 @@ I joined in a senior developer role, and my first project was to build a web por
 I was paired with a new backend developer who was a fresher, which quickly turned into me unofficially guiding him. He was entirely new to the field, so I guided him on the basics of web development, setting up APIs, and structuring a database, while he worked to skill up on the tech stack independently. I handled most of the initial architecture, the DB schema, and feature development, then handed him manageable tasks to start with.
 
 
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/1968ad9e-c453-492d-ba05-bf410994bfe4" alt="mentoring" width="500">
+</div>
+
 ### Watching Someone Grow
 
 Mentoring my teammate was quite a journey. He was new to python and web development, and we spent many late nights debugging together, especially before milestone releases. But he was ambitious, a quick learner, and super detail-oriented. Watching him go from seeking help with minor issues to thinking critically and taking charge was incredibly rewarding. Over time, he started taking ownership of his work, coming up with his own ideas, and suggesting alternate solutions when he saw a better way.
