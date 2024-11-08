@@ -8,7 +8,12 @@ Aspiring Study-Demon
     
 ```
 
-## Writings
+## Study Notes
+
+[Repository for  Harvard's cs50 AI Course](https://debamitra.github.io/cs50-ai-journal/)
+
+
+## Other Writings
 
 [Reflections on My Learning Journey](https://debamitra.github.io/debs-journal/some-notes-ongoing-learning-journey.html)
 
