@@ -1,5 +1,5 @@
 # debs-journal
-Welcome to my **Stream of Consciousness Study Journal** — a place where I track my journey, thoughts, and learnings over time.
+**Stream of Consciousness Study Journal** — a place where I track my journey, thoughts, and learnings over time.
 
 
 ```cpp
