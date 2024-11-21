@@ -24,8 +24,8 @@ Aspiring Study-Demon
 
 ## About
 
-This journal is a stream of my thoughts, notes, and reflections as I wander through computer science, programming, and the occasional tangent. It’s a place to make sense of what I am learning, keep track of my own growth, and maybe even find some direction along the way.
+This journal is a collection of my thoughts, notes, and reflections as I explore computer science, programming, and whatever else catches my attention. It’s where I try to make sense of what I am learning, keep track of my progress, and maybe even find some clarity along the way.
 
-Thanks for stopping by. Feel free to follow along as I dig into new ideas, play around with concepts, and just see where this journey takes me.
+Thanks for dropping by. Feel free to follow along as I dive into new ideas, experiment with concepts, and see where this journey leads.
     
 
