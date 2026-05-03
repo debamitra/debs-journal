@@ -1,4 +1,4 @@
-# Math is Hard (and so is AI)
+## Math is Hard (and so is AI)
 
 I have been struggling with the basics of mathematics for a while now. I created endless plans using ChatGPT, tried following them, got lost or bored after a while, stopped, then restarted all over again. Each time, it felt like I had made no progress at all.
 
@@ -15,3 +15,7 @@ As I spend more time in the Math World, I start marveling at the beauty of it. M
 Maybe learning math isn't about knowing everything perfectly. Maybe it's about becoming comfortable in a space that once felt scary. Its about recognizing patterns and discovering ideas and making sense of them.
 
 I am not "good" at math yet. But I feel happy when I am inside that world, discovering and learning slowly.
+
+#### Linking the resources mentioned below:
+- [Karpathy's Micrograd tutorial](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=1)
+- [Math Pre-requisites to Karpathy's tutorial](https://docs.google.com/document/d/1Kz7A0SCdLGHCu-WA5K9U5xhKTCbEUB7-WCs1g-aC2kc/edit?tab=t.0)
