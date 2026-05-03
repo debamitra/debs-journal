@@ -12,6 +12,6 @@ Other days, I am lost again. What is a gradient? What does `zip()` even do?
 
 As I spend more time in the Math World, I start marveling at the beauty of it. Mathematics isn't just about memorizing formulas. It's more like entering a world defined by rules. In that world, one explores and finds what is true.  Intuition and logic work hand in hand. e.g When I was trying to understand the Chain Rule, why multiplying derivatives works, Karpathy’s analogy made it click. If a cyclist is going twice as fast as a walker, and a car is going four times as fast as the cyclist, the car is going eight times faster than the walker (2 X 4). That’s the chain rule.
 
-Maybe learning math isn't about knowing everything perfectly. Maybe it's about becoming comfortable in a space that once felt unintelligible — about recognizing patterns and discovering ideas.
+Maybe learning math isn't about knowing everything perfectly. Maybe it's about becoming comfortable in a space that once felt scary. Its about recognizing patterns and discovering ideas and making sense of them.
 
 I am not "good" at math yet. But I feel happy when I am inside that world, discovering and learning slowly.
