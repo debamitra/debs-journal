@@ -10,6 +10,10 @@ Some days, it felt super clear. Karpathy shows how a mathematical expression is 
 
 Other days, I am lost again. What is a gradient? What does `zip()` even do?
 
+At one point, I realized I wasn’t getting gradients at all. The 3D analogy of walking up a hill and choosing a direction just confused me more. I kept asking ChatGPT, sharing whatever half-baked understanding I had, and letting it correct me again and again until something finally clicked.
+
+The idea of partial derivatives and gradients started to make more sense when I began thinking of a derivative as sensitivity — how fast the output of a function changes with respect to its inputs. That framing helped me connect the math to what the code was actually doing.
+
 As I spend more time in the Math World, I start marveling at the beauty of it. Mathematics isn't just about memorizing formulas. It's more like entering a world defined by rules. In that world, one explores and finds what is true.  Intuition and logic work hand in hand. e.g When I was trying to understand the Chain Rule, why multiplying derivatives works, Karpathy’s analogy made it click. If a cyclist is going twice as fast as a walker, and a car is going four times as fast as the cyclist, the car is going eight times faster than the walker (2 X 4). That’s the chain rule.
 
 Maybe learning math isn't about knowing everything perfectly. Maybe it's about becoming comfortable in a space that once felt scary. Its about recognizing patterns and discovering ideas and making sense of them.
