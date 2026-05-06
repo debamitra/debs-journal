@@ -7,13 +7,13 @@ I have been struggling with basics of Mathematics and learning Math for a while 
 
 I eventually finished my "Math for Karpathy" list and started the first video , introduction to NN using micrograd. And wow, did it make sense now. 
 
-The idea seems to be  that neural nets are nothing but a mathematical expression or function which maps inputs to outputs. We train it with example inputs and expected outputs to fit a function to the  data. Then use that learned function to give us predicted output for new inputs. Thats what I understood till now.
+The idea seems to be that neural nets are nothing but a mathematical expression or function that maps inputs to outputs. We train it with example inputs and expected outputs to fit a function to the data, then use that learned function to give us predicted outputs for new inputs. That's what I understood so far.
 
-I struggled with back propagation. What exactly was it. Karpathy manually built an expression using classes and objects where each operand was a data point. Then calculated the partial derivative of final output with respect to each of the nodes. All of these together was the gradient of the expression, And then created a loss function and generated a value. Now the objective became to reduce the loss by tweaking the weights and biases.Tweak in what way and why? Use the gradient no.s and increase or decrease the weights and biases to get an output closer and closer to the target output. Multiple iterations gives the desired parameterized function  which is then ready to predict outputs given new inputs.
+I struggled with backpropagation. What exactly was it? Karpathy manually built an expression using classes and objects where each operand was a data point. He then calculated the partial derivative of the final output with respect to each of the nodes. All of these partial derivatives together form the gradient of the expression. Then he created a loss function and generated a value. The objective became to reduce the loss by tweaking the weights and biases. Tweak in what way, and why? Use the gradient values to increase or decrease the weights and biases to get an output closer and closer to the target. Multiple iterations give you the desired parameterised function, which is then ready to predict outputs given new inputs.
 
 So that was a tiny little neural network which I am trying to understand intuitively first. Then more rigourously with time.
 
-Math, is challenging, hard to stick to over time. But I understand that even consistency doesnt have to be perfect. Learning can be approached as a world of exploration and knowledge building thats fun and satisfying in a particular way. 
+Math is challenging and hard to stick with over time. But I understand that even consistency doesnt have to be perfect. Learning can be approached as a world of exploration and knowledge-building thats fun and satisfying in its own particular way. 
 
 I am not "good" at math. But I feel happy when I am inside that world, discovering and learning slowly.
 
