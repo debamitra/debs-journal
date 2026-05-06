@@ -1,22 +1,19 @@
 ## Math is Hard (and so is AI)
 
-I have been struggling with the basics of mathematics for a while now. I created endless plans using ChatGPT, tried following them, got lost or bored after a while, stopped, then restarted all over again. Each time, it felt like I had made no progress at all.
 
-A couple of months ago, I decided I wanted to learn neural networks from Andrej Karpathy's Zero to Hero series, but with a different approach this time. Before jumping in, I created a prerequisites list of math concepts, linked them to Khan Academy tutorials and went through them one by one. Concepts like limits, slope, derivatives, the chain rule, partial derivatives and gradients were ticked off. I felt like I understood them. I could follow along, solve the exercises. I felt confident and certain. But then I would come back after a while and think.. "what is a slope again?"
+I have been struggling with basics of Mathematics and learning Math for a while now. I have created endless plans using chatGPT and other llms, tried following them, got lost or bored after a while, stopped then restarted all over again and each time, it feels like I have made no progress at all.
 
-I eventually finished my "Math for Karpathy" list and started the first video: an intro to neural networks using `micrograd`. I broke it down into 15 minutes a day over 10 days. And wow, it actually made sense.
+2 months ago, I decided I wanted to learn about NNs from Karpathy’s Zero to Hero series. Before jumping in, I created a pre-requisite list of math concepts, linked them to Khan Academy tutorials and went through them one by one. Basics of calculus. Concepts like Limit, Slope, Derivative, Chain Rule  Partial Derivatives, Gradients etc were ticked off one by one. I felt like I understood them, and then came back and was like..."What is a Slope again?"
 
-Some days, it felt super clear. Karpathy shows how a mathematical expression is built using simple Python code and how at each point, its partial derivative is calculated. Each derivative just measures how a small change at that point affects the final output.
+I eventually finished my "Math for Karpathy" list and started the first video , introduction to NN using micrograd. And wow, did it make sense now. 
 
-Other days, I am lost again. What is a gradient? What does `zip()` even do?
+The idea seems to be  that neural nets are nothing but a mathematical expression or function which maps inputs to outputs. We train it with example inputs and expected outputs to fit a function to the  data. Then use that learned function to give us predicted output for new inputs. Thats what I understood till now.
 
-At one point, I realized I wasn’t getting gradients at all. The 3D analogy of walking up a hill and choosing a direction just confused me more. I kept asking ChatGPT, sharing whatever half-baked understanding I had, and letting it correct me again and again until something finally clicked.
+I struggled with back propagation. What exactly was it. Karpathy manually built an expression using classes and objects where each operand was a data point. Then calculated the partial derivative of final output with respect to each of the nodes. All of these together was the gradient of the expression, And then created a loss function and generated a value. Now the objective became to reduce the loss by tweaking the weights and biases.Tweak in what way and why? Use the gradient no.s and increase or decrease the weights and biases to get an output closer and closer to the target output. Multiple iterations gives the desired parameterized function  which is then ready to predict outputs given new inputs.
 
-The idea of partial derivatives and gradients started to make more sense when I began thinking of a derivative as sensitivity — how fast the output of a function changes with respect to its inputs. That framing helped me connect the math to what the code was actually doing.
+So that was a tiny little neural network which I am trying to understand intuitively first. Then more rigourously with time.
 
-As I spend more time in the Math World, I start marveling at the beauty of it. Mathematics isn't just about memorizing formulas. It's more like entering a world defined by rules. In that world, one explores and finds what is true.  Intuition and logic work hand in hand. e.g When I was trying to understand the Chain Rule, why multiplying derivatives works, Karpathy’s analogy made it click. If a cyclist is going twice as fast as a walker, and a car is going four times as fast as the cyclist, the car is going eight times faster than the walker (2 X 4). That’s the chain rule.
-
-Maybe learning math isn't about knowing everything perfectly. Maybe it's about becoming comfortable in a space that once felt scary. Its about recognizing patterns and discovering ideas and making sense of them.
+Math, is challenging, hard to stick to over time. But I understand that even consistency doesnt have to be perfect. Learning can be approached as a world of exploration and knowledge building thats fun and satisfying in a particular way. 
 
 I am not "good" at math. But I feel happy when I am inside that world, discovering and learning slowly.
 
