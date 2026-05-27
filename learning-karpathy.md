@@ -1,4 +1,4 @@
-## Math is Hard (and so is AI)
+## Learning Neural Nets and the Math behind it Very Slowly
 
 
 I have been struggling with basics of Mathematics and learning Math for a while now. I have created endless plans using chatGPT and other llms, tried following them, got lost or bored after a while, stopped then restarted all over again and each time, it feels like I have made no progress at all.
